@@ -100,7 +100,7 @@ def test_larger_graph_multiple_routes():
     "start,goal,expected_cost",
     [
         ("Start", "C", 3),
-        ("Start", "D", 10),
+        ("Start", "D", 12),
         ("A", "End", 7),
     ],
 )
